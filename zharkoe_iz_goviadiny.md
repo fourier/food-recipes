@@ -7,7 +7,7 @@
  - 3-4 зубчика чеснока
  - 2 чайные ложки хмели-сунели
 
-![FinnAPL idioms]({{ "zharkoe_iz_goviadiny.jpg" | absolute_url }})
+![image]("https://github.com/fourier/food-recipes/raw/master/zharkoe_iz_goviadiny.jpg" "Жаркое из говядины")
 
 В утятницу залить растительного масла чтоб покрывало дно.
 Разогреть и добавить несколько кусочков сливочного масла.
