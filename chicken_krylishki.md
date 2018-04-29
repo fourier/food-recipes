@@ -1,6 +1,7 @@
-from Luigi:
-==========
-Ingredients:
+# Куриное филе в апельсиновом маринаде
+От моего друга Luigi
+
+## Ингридиенты 
 
 1 kg chicken tights de-boned (kycklingslårfile),
 
@@ -16,6 +17,8 @@ Black Pepper,
 
 Salt
 
+## Приготовление
+ 
 - Wash and cut the chicken meat in pieces and put them in a large pan with some olive oil or butter;
 
 - Let them cook without lid in moderate/high heat;
