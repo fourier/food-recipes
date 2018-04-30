@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: Простые рецепты еды
+- type: subtitle
+  text: Набор простых и быстрых рецептов
+creator:
+- role: author
+  text: Алексей Веретенников
+rights: © 2018 Алексей Веретенников, CC BY-NC
+...
