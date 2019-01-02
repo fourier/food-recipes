@@ -7,7 +7,7 @@
 1. 250гр томатов-черри
 1. 250гр грибов
 
-# Приготовление
+## Приготовление
 
 ![image](https://github.com/fourier/food-recipes/raw/master/beef_stew_red_wine.jpg "Говядина в красном вине")
 
