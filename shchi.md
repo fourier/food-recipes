@@ -18,7 +18,7 @@
 
 # Приготовление
 
-![image](https://github.com/fourier/food-recipes/images/raw/master/shchi.jpg "Щи")
+![image](https://github.com/fourier/food-recipes/raw/master/images/shchi.jpg "Щи")
 
 1. Варим бульон. Примерно 1 час на курицу
 2. Курицу вытащить, отложить и отделить мясо
